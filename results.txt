@@ -1,0 +1,44 @@
+k-NN Model Training Accuracy: 91.17%
+------------------------------
+Original:
+  Accuracy: 90.96%
+  Average Keypoints: 91.02
+------------------------------
+Scaled:
+  Accuracy: 89.65%
+  Average Keypoints: 107.38
+------------------------------
+Rotated:
+  Accuracy: 11.54%
+  Average Keypoints: 75.89
+------------------------------
+Illuminated:
+  Accuracy: 66.20%
+  Average Keypoints: 57.36
+------------------------------
+Noisy:
+  Accuracy: 88.75%
+  Average Keypoints: 105.23
+------------------------------
+k-NN Model Training Accuracy: 94.27%
+------------------------------
+Original:
+  Accuracy: 92.55%
+  Average Keypoints: 175.81
+------------------------------
+Scaled:
+  Accuracy: 92.55%
+  Average Keypoints: 227.43
+------------------------------
+Rotated:
+  Accuracy: 7.86%
+  Average Keypoints: 105.69
+------------------------------
+Illuminated:
+  Accuracy: 71.52%
+  Average Keypoints: 168.84
+------------------------------
+Noisy:
+  Accuracy: 91.69%
+  Average Keypoints: 198.06
+------------------------------
